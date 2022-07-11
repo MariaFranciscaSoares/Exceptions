@@ -1,7 +1,7 @@
 # Exceptions
 Exercício trabalhando com tratamento de exceções na linguagem JAVA. 
 
-O programa para efetua a leitura dos dados de uma conta bancária e depois realiza um
+O programa efetua a leitura dos dados de uma conta bancária e depois realiza um
 saque nesta conta bancária, mostrando o novo saldo. 
 Um saque não pode ocorrer: 
  - Se não houver saldo na conta. 
